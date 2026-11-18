@@ -1,0 +1,1 @@
+export default  'es page mai hindi bhasa ka opyog kiya gya hai '
